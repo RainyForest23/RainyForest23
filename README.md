@@ -1,8 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,30,26&height=250&section=header&text=Woorim%20Shin&fontSize=80&fontColor=ffffff&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,30,26&height=150&section=header&text=Woorim%20Shin&fontSize=40&fontColor=ffffff&animation=twinkling)
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=CS+%26+AI%2FML+Student;EdTech+Project+Leader;Building+the+future+with+code;Always+learning+something+new!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=CS+%26+AI%2FML+Student)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rainyforest23&label=Profile%20views&color=6366f1&style=for-the-badge)
 
@@ -17,8 +17,9 @@ I'm currently pursuing my degree in **Computer Science and Engineering** at **Ew
 I've had the opportunity to lead and contribute to several high school education projects at **Hiconsy**, an EdTech startup in South Korea, where I've gained valuable experience in project management and educational technology development.
 
 ## 🛠️ Tech Stack
+*Languages I've worked with or am actively improving my skills in:*
 
-<div align="center">
+<div align="left">
 
 ### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
@@ -59,22 +60,14 @@ I've had the opportunity to lead and contribute to several high school education
 </div>
 
 ## 🌱 Currently Learning
+### 📚 Coursework at Ewha Womans University
+AI/ML Focus:
 
-```typescript
-interface CurrentFocus {
-  deepLearning: string[];
-  mlops: string[];
-  webDev: string[];
-  education: string[];
-}
-
-const myLearningPath: CurrentFocus = {
-  deepLearning: ["Neural Networks", "Computer Vision", "NLP"],
-  mlops: ["Model Deployment", "MLflow", "Kubernetes"],
-  webDev: ["React", "Node.js", "TypeScript"],
-  education: ["Personalized Learning", "Educational Analytics"]
-};
-```
+Computer Vision - Image processing with OpenCV, deep neural networks with PyTorch
+Data Science - Real-world data analysis, visualization techniques, and machine learning applications
+Machine Learning - Supervised/unsupervised learning, reinforcement learning, and cutting-edge AI research trends
+Reinforcement Learning - Advanced RL algorithms and applications
+Natural Language Processing - Text analysis, language models, and NLP techniques
 
 ## 📊 GitHub Statistics
 
@@ -107,37 +100,14 @@ const myLearningPath: CurrentFocus = {
 
 </div>
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-*Coming soon... Currently working on some exciting AI/ML and EdTech projects!* 🎯
-
-<!-- Uncomment and update when you have featured projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rainyforest23&repo=your-project-name&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/rainyforest23/your-project-name)
--->
-
-</div>
-
-## 📈 Activity Graph
-
-[![Woorim's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rainyforest23&bg_color=0d1117&color=6366f1&line=8b5cf6&point=a855f7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-## 💭 Random Dev Quote
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
 
 ## 📫 Let's Connect!
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white)](https://your-portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/woorimshin)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wrim0923@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white)](https://rainyforest23.github.io/Woorim-Shin-cv/)
 
 ---
 
