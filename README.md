@@ -7,11 +7,6 @@ I'm currently pursuing my degree in **Computer Science and Engineering** at **Ew
 
 I've had the opportunity to lead and contribute to several high school education projects at **Hiconsy**, an EdTech startup in South Korea, where I've gained valuable experience in project management and educational technology development.
 
-
-I am Woorim Shin, an undergraduate student of Computer Science and Engineering at Ewha Womans University in Seoul, South Korea.
-
-I'm passionate about **Natural Language Processing** and **Korean Language Technology**, currently diving deep into AI/ML through hands-on projects while building up the theoretical foundations. My journey has been driven by curiosity and a determination to tackle challenges until I find solutions – when I get fascinated by a field, I tend to dive deep and explore every aspect of it.
-
 Recently, I led the end-to-end development of an **AI subtitle generation model for Korean educational content**. Through this project, I gained comprehensive experience in:
 - **Model Development**: Fine-tuning Whisper models with LoRA and PEFT techniques
 - **Infrastructure**: Setting up distributed GPU training environments and monitoring with Tensorboard  
