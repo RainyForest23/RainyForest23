@@ -1,8 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,30,26&height=150&section=header&text=Woorim%20Shin&fontSize=40&fontColor=ffffff&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,30,26&height=150&section=header&animation=twinkling)
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=CS+%26+AI%2FML+Student)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rainyforest23&label=Profile%20views&color=6366f1&style=for-the-badge)
 
@@ -63,11 +62,11 @@ I've had the opportunity to lead and contribute to several high school education
 ### 📚 Coursework at Ewha Womans University
 AI/ML Focus:
 
-Computer Vision - Image processing with OpenCV, deep neural networks with PyTorch
-Data Science - Real-world data analysis, visualization techniques, and machine learning applications
-Machine Learning - Supervised/unsupervised learning, reinforcement learning, and cutting-edge AI research trends
-Reinforcement Learning - Advanced RL algorithms and applications
-Natural Language Processing - Text analysis, language models, and NLP techniques
+* Computer Vision - Image processing with OpenCV, deep neural networks with PyTorch
+* Data Science - Real-world data analysis, visualization techniques, and machine learning applications
+* Machine Learning - Supervised/unsupervised learning, reinforcement learning, and cutting-edge AI research trends
+* Reinforcement Learning - Advanced RL algorithms and applications
+* Natural Language Processing - Text analysis, language models, and NLP techniques
 
 ## 📊 GitHub Statistics
 
@@ -92,13 +91,6 @@ Natural Language Processing - Text analysis, language models, and NLP techniques
 
 </div>
 
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=rainyforest23&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
 
 
 ## 📫 Let's Connect!
@@ -107,13 +99,11 @@ Natural Language Processing - Text analysis, language models, and NLP techniques
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/woorimshin)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wrim0923@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white)](https://rainyforest23.github.io/Woorim-Shin-cv/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=web&logoColor=white)](https://rainyforest23.github.io/Woorim-Shin-cv/)
 
 ---
 
-**Thanks for visiting! ⭐️ Star some repositories if you found them interesting!**
-
-*"The best way to predict the future is to invent it." - Alan Kay*
+**Thanks for visiting!**
 
 </div>
 
