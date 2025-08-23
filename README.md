@@ -1,13 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,30,26&height=150&section=header&animation=twinkling)
 
-<div align="center">
-
-
-![Profile Views](https://komarev.com/ghpvc/?username=rainyforest23&label=Profile%20views&color=6366f1&style=for-the-badge)
-
----
-
-</div>
 
 ## 🙋‍♀️ About Me
 
@@ -101,7 +93,6 @@ AI/ML Focus:
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wrim0923@gmail.com)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=web&logoColor=white)](https://rainyforest23.github.io/Woorim-Shin-cv/)
 
----
 
 **Thanks for visiting!**
 
