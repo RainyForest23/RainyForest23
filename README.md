@@ -34,6 +34,6 @@ Python · PyTorch · Hugging Face (PEFT/LoRA) · Whisper · Linux · Docker · A
 
 ## Contact
 
-[Email](mailto:wrim0923@gmail.com) · [LinkedIn](https://www.linkedin.com/in/woorimshin)
+[Email](mailto:wrim0923@gmail.com) · [LinkedIn](https://www.linkedin.com/in/woorimshin) · [CV (PDF)](woorim-shin-cv.pdf)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,30,26&height=150&section=footer&animation=twinkling)
